@@ -3,4 +3,5 @@ alembic~=1.13.2
 SQLAlchemy~=2.0.34
 uvicorn~=0.30.6
 psycopg2-binary
-python-dotenv
+python-dotenv~=1.0.1
+openai~=1.43.0
